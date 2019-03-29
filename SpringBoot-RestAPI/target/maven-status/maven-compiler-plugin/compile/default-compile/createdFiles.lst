@@ -1,0 +1,12 @@
+com\egiants\config\Swagger2Config.class
+com\egiants\model\Address.class
+com\egiants\model\Organization.class
+com\egiants\controllers\EmployeeController.class
+com\egiants\exception\ErrorDetails.class
+com\egiants\repository\OrganizationRepository.class
+com\egiants\SpringBootRestAPIApplication.class
+com\egiants\service\OrganizationService.class
+com\egiants\model\Employee.class
+com\egiants\exception\GlobalExceptionHandler.class
+com\egiants\controllers\OrganizationController.class
+com\egiants\repository\EmployeeRepository.class
